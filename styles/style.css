@@ -1,0 +1,46 @@
+/* Text */
+html {
+    color: white;
+    font-size: 10px;
+    font-family: 'Tiro Gurmukhi', serif;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: white;
+    text-shadow: 3px 3px 1px black;
+}
+
+h3 {
+    font-size: 30px;
+    color: black;
+}
+
+p, li {
+    font-size: 25px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+/* Background */
+.cover {
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+}
+
+html {
+    background-color: #FF9500;
+}
+
+body {
+    width: 1500px;
+    margin: 0 auto;
+    background-color: #FF9500;
+    padding: 0 20px 20px 20px 20px;
+    /* border: 5px solid white; */
+
+}
